@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb://localhost:27017/fullstact";
+const mongoURI = "mongodb://localhost:27017/fullstack";
 
 const connectToMongo = async () => {
   try {
